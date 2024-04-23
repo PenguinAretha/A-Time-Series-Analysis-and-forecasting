@@ -1,4 +1,4 @@
-# A-Time-Series-Analysis-and-forecasting
+# A-Time-Series-Analysis-and-Forecasting
 
 This project aims to analyze and forecast the sales of a major supermarket retailer, using time series data to assess the performance of its stores.
 
